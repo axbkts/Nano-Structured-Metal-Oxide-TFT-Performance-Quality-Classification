@@ -70,8 +70,6 @@ We trained and evaluated the following classification algorithms:
 ### Results
 The models were compared based on **Accuracy**, **F1-Score**, and **Confusion Matrices**.
 
-*(Please upload the generated plots here after running the code)*
-
 ### Real-World Applications & Deployment
 This classification model serves as a quality control gatekeeper in semiconductor manufacturing pipelines. By exporting the trained model (e.g., using `joblib` or `pickle`), it can be integrated into the following systems:
 
@@ -161,8 +159,6 @@ Aşağıdaki algoritmalar proje kapsamında test edilmiştir:
 
 ### Sonuçlar
 Modeller **Doğruluk (Accuracy)**, **F1-Skoru** ve **Karmaşıklık Matrisleri (Confusion Matrix)** üzerinden değerlendirilmiştir.
-
-*(Kodu çalıştırdıktan sonra oluşan grafiklerinizi buraya ekleyebilirsiniz)*
 
 ### Gerçek Dünya Uygulamaları ve Entegrasyon
 Bu sınıflandırma modeli, yarı iletken üretim hatlarında bir "kalite kontrol bekçisi" olarak görev yapabilir. Eğitilen model dışarı aktarılarak (örn: `joblib` veya `pickle` ile) şu sistemlere entegre edilebilir:
