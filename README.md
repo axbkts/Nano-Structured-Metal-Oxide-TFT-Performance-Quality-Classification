@@ -73,7 +73,7 @@ The models were compared based on **Accuracy**, **F1-Score**, and **Confusion Ma
 
 3.  **Run the analysis:**
     ```bash
-    python main.py
+    python nano_tft_classification.py
     ```
 
 ---
@@ -136,5 +136,5 @@ Modeller **Doğruluk (Accuracy)**, **F1-Skoru** ve **Karmaşıklık Matrisleri (
 
 3.  **Kodu çalıştırın:**
     ```bash
-    python main.py
+    python nano_tft_classification.py
     ```
