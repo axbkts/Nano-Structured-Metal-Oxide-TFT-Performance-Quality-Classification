@@ -1,0 +1,2 @@
+# Nano-Structured-Metal-Oxide-TFT-Performance-Quality-Classification
+Quality/Performance classification of Nano-Structured Metal Oxide Thin-Film Transistors using 6 ML models (KNN, Logistic Reg, Naive Bayes, Decision Trees, SVM, Random Forest). / Nano-Yapılı Metal Oksit İnce Film Transistörlerin 6 ML modeli (KNN, Lojistik Reg, Naive Bayes, Karar Ağaçları, SVM, Rassal Orman) ile kalite sınıflandırması.
